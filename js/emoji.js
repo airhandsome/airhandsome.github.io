@@ -1,4 +1,3 @@
-// 如果当前页有评论就执行函数
 if (document.getElementById('post-comment')) owoBig();
 // 表情放大
 function owoBig() {
